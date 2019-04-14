@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1555169896 source:e:\codeblock\pinball_official\commonfunction.cpp
+	"CommonFunction.h"
+
+1555181881 ction.h"
+
+1555231557 source:e:\codeblock\pinball_official\main.cpp
+	"CommonFunction.h"
+	"BaseObject.h"
+	"Ball.h"
+
+1555179855 t.h"
+
+1555179855 source:e:\codeblock\pinball_official\baseobject.cpp
+	"BaseObject.h"
+
+1555177576 e:\codeblock\pinball_official\commonfunction.h
+	<windows.h>
+	<string>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+
+1555177576 >
+
+1555231044 e:\codeblock\pinball_official\baseobject.h
+	"CommonFunction.h"
+
+1555179855 source:/mnt/E/Codeblock/Pinball_Official/BaseObject.cpp
+	"BaseObject.h"
+
+1555181881 /mnt/E/Codeblock/Pinball_Official/BaseObject.h
+	"CommonFunction.h"
+
+1555177576 /mnt/E/Codeblock/Pinball_Official/CommonFunction.h
+	<windows.h>
+	<string>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+
+1555169896 source:/mnt/E/Codeblock/Pinball_Official/CommonFunction.cpp
+	"CommonFunction.h"
+
+1555181721 source:/mnt/E/Codeblock/Pinball_Official/main.cpp
+	"CommonFunction.h"
+	"BaseObject.h"
+
+1555231549 source:e:\codeblock\pinball_official\ball.cpp
+	"Ball.h"
+
+1555231547 e:\codeblock\pinball_official\ball.h
+	"CommonFunction.h"
+	"BaseObject.h"
+
